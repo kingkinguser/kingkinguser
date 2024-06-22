@@ -1,41 +1,30 @@
-<!--
-**kingkinguser/kingkinguser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align=center> 
+    
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&text=KINGKINGUSER%20&desc=%ED%82%B9%20%ED%82%B9%20%EC%9D%B4&color=gradient)
 
-Here are some ideas to get you started:
+안녕하세요!🙇 <br>
+현재 웹 개발자로 일하고 있으며, 언어는 자바를 주력으로 공부하고 있어요! <br>
+개발자로서의 역량을 키우기 위해 꾸준히 노력하고 있습니다.️🔥 <br><br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Introduce myself 🌟 <br>
+<a href="https://king-developer.tistory.com">
+  <img src="https://img.shields.io/badge/Tistory-000000.svg?style=flat-square&logo=Tistory&logoColor=white" alt="Tistory Badge">
+</a> <br><br><br>
 
-## kingkinguser 🌱
-<div style="display:flex; flex-direction:column; align-items:flex-start;">
-    ![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=KINGKINGUSER%20&desc=킹%20킹%20이&color=auto) 
-    
-    안녕하세요!🙇 
-    현재 웹 개발자로 일하고 있으며, 언어는 자바를 주력으로 공부하고 있어요!
-    개발자로서의 역량을 키우기 위해 꾸준히 노력하고 있습니다.️🔥
-    
-    
-    ## 🌟 Introduce myself 🌟 <br>
-    <img src="https://img.shields.io/badge/Tistory-000000.svg?style=flat-square&logo=Tistory&logoColor=white"/> https://king-developer.tistory.com <br><br><br>
-    
-    
-    ## 🛠 Tech Stack 🛠 <br>
-    Techs I've used at least once <br>
-    
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
-    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
-    <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
-    <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"> 
-    <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
-    <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
-    <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
-    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
-    <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
+
+## 🛠 Tech Stack 🛠 <br>
+Techs I've used at least once <br>
+
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" alt="Java Badge" height="20">
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring%20boot&logoColor=white" alt="Spring Boot Badge" height="20">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Badge" height="20">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5 Badge" height="20">
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS Badge" height="20"> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript Badge" height="20"> <br>
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="jQuery Badge" height="20">
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap Badge" height="20">
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle Badge" height="20">
+<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white" alt="MariaDB Badge" height="20">
+<img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black" alt="Apache Tomcat Badge" height="20">
+
 </div>
