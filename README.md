@@ -18,9 +18,9 @@ Techs I've used at least once <br>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" alt="Java Badge" height="20">
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring%20boot&logoColor=white" alt="Spring Boot Badge" height="20">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Badge" height="20">
+<img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white" alt="JSP Badge" height="20">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5 Badge" height="20">
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS Badge" height="20"> 
-<img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white" alt="JSP Badge" height="20">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript Badge" height="20"> <br>
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="jQuery Badge" height="20">
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap Badge" height="20">
