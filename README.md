@@ -7,6 +7,8 @@
 개발자로서의 역량을 키우기 위해 꾸준히 노력하고 있습니다.️🔥 <br><br><br>
 
 ## 🌟 Introduce myself 🌟 <br>
+블로그도 운영중이에요!🔥<br>
+↓↓↓<br>
 <a href="https://king-developer.tistory.com">
   <img src="https://img.shields.io/badge/Tistory-000000.svg?style=flat-square&logo=Tistory&logoColor=white" alt="Tistory Badge">
 </a> <br><br><br>
